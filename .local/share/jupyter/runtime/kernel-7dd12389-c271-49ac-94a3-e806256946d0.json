@@ -1,0 +1,13 @@
+{
+  "shell_port": 49705,
+  "iopub_port": 35471,
+  "stdin_port": 56325,
+  "control_port": 53363,
+  "hb_port": 41727,
+  "ip": "127.0.0.1",
+  "key": "d06e6881-def5fd72e3735289564b4af5",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "seminar-r",
+  "jupyter_session": "/home/x-lanell/# Project 1 -- Lukas Anell.ipynb"
+}

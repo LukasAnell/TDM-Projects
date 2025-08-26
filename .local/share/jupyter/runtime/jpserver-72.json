@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/x-lanell/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 72,
+  "port": 8888,
+  "root_dir": "/home/x-lanell",
+  "secure": false,
+  "sock": "",
+  "token": "637eb3c8c5bf4d41b8277d1c8a9c3a9a",
+  "url": "http://jupyter-x-lanell:8888/user/x-lanell/",
+  "version": "2.14.2"
+}

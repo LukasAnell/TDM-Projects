@@ -1,0 +1,14 @@
+# .logout
+# This file is sourced by [t]csh shells upon logout.
+
+# Save the last command exit status to ensure it does not get clobbered
+set EXITVAL = $status
+
+# Clear screen
+clear
+echo "`hostname --fqdn | sed -e 's/.*//'`: `whoami` logged out at `date`"
+
+# User specific logout customization
+
+# And restore the exit status
+exit $EXITVAL
