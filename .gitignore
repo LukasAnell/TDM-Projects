@@ -1,0 +1,10 @@
+*
+
+!Projects/
+!Projects/**
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+!project_template.ipynb
+!.gitignore
